@@ -98,6 +98,6 @@ Le projet contient deux fichiers PNG représentant les graphes produits :
 ## Notes
 
 - Le notebook contient des exemples d'appel du graphe avec différents profils d'employés.
-- Le projet est prévu pour un usage éducatif et expérimental.
+
 
 
